@@ -128,7 +128,6 @@ def adding_to_dennis
         :known_for => "Unix",
         :languages => ["C", "Assembly"]
       }
-      return [:programmer_hash][:alan_kay][:languages]
     }
 
 end
